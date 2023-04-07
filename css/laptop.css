@@ -27,7 +27,7 @@ section > .container{
 /* CSS phần banner */
 #banner{
     background-image: linear-gradient(rgba(34,34,34,0.6), rgba(34,34,34,0.6)),
-    url(/Assignment_2/images/banner.jpg);
+    url(../images/banner.jpg);
     background-size: cover;
     position: relative;
     height: 60vh;
@@ -227,6 +227,7 @@ li span{
 
 .image{
     width: 240px;
+    height: 160px;
     margin-right: 10px;
     box-shadow: 0 10 10 0 rgba(0, 0, 0, 0.1);
 }
