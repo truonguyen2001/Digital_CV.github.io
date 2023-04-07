@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* CSS phần khung Digital */
+.dig-grid{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 30px;
+    align-items: start;
+    box-shadow: 0 10 10 0 rgba(0, 0, 0, 0.1);
+
+}
+
+/* CSS từng Digital */
+.title{
+    margin-left: 10px;
+    padding-bottom: 20px;
+    color: blue;
+}
+
+.row{
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+h4{
+    font-size: 18px;
+}
+
+.content{
+    padding-bottom: 10px;
+    border-bottom-style: dotted;
+    border-bottom-color: #03f689d7;
+    border-bottom-width: 2px;
+}
+
+.border{
+    margin-top: 20px;
+    padding-top: 8px;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    color: white;
+    background-color: #a3a2a2;
+    font-size: 24px;
+}

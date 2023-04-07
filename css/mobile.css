@@ -1,0 +1,31 @@
+@media (max-width:768px){
+    .text-nav{
+        display: none;
+    }
+
+    #nav-bar{
+        display: block;
+        height: auto;
+    }
+
+    #nav-bar a:link, a:visited{
+        padding: 10px;
+        display: block;
+        border-left: none;
+        text-align: left;
+    }
+
+    #personal-info{
+        padding-right: 20px;
+    }
+
+    .skill-2{
+        border-left: none;
+        border-top: 1.5px solid #d6c08d;
+        padding-top: 40px;
+    }
+
+    #footer a:link{
+        margin-right: 10px;
+    }
+}

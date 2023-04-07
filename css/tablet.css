@@ -1,0 +1,50 @@
+@media (min-width: 768px) and (max-width:1024px){
+    .text-nav{
+        display: none;
+    }
+
+    #nav-bar{
+        margin-top: 15px;
+    }
+
+    #nav-bar a:link, a:visited{
+        padding: 15px 15px 30px 15px;
+        margin-right: 1 rem;
+    }
+
+    #personal-info{
+        padding-right: 30px;
+        font-size: 15px;
+    }
+
+    #target{
+        font-size: 15px;
+    }
+
+    .skill-img{
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .pro-title{
+        font-size: 13px;
+    }
+
+    .pro-border{
+        font-size: 13px;
+        padding: 10px 5px !important;
+    }
+
+    .pro-border span{
+        margin-right: 5px;
+    }
+
+    tr{
+        font-size: 13px;
+        border: 1px solid #bdc3c7;
+    }
+
+    tr td:first-child{
+        width: 30%;
+    }
+}
