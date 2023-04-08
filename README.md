@@ -46,3 +46,5 @@ Assignment 02 Stater
 └─ index.html
 
 ```
+
+Link git pages: https://truonguyen2001.github.io/Digital_CV.github.io/
